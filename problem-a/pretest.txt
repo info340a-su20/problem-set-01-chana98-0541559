@@ -254,7 +254,6 @@
 
   ● Has required CSS › Paragraphs have specified line height
 
-
     TypeError: Cannot read property 'attribs' of undefined
 
       134 |   test('Paragraphs have specified line height', () => {
